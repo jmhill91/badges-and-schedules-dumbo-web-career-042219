@@ -22,6 +22,6 @@ end
     puts badge
   end
     assign_rooms(attendees). each do |rooms|
-      puts room
+      puts rooms
     end
   end
